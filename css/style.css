@@ -1,0 +1,51 @@
+#productos{
+  width: 80%;
+  margin: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+}
+
+#carrito{
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: gray;
+}
+
+.contenedor{
+  width: auto;
+  background-color: #cbbcce;
+  padding: 1rem;
+  align-items: center;
+  
+}
+
+.imagen{
+  width: 8rem;
+}
+
+header {
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+}
+
+h1 {
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  margin: 1rem;
+  flex-wrap: wrap;
+}
+
+h2 {
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  margin: 1rem;
+  flex-wrap: wrap;
+}
